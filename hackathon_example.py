@@ -8,7 +8,7 @@ import argparse
 def addit(i):
     result=0
     for n in range(i):
-        result+=
+        result= result + n
 
     return result
 
