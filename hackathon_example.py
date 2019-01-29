@@ -7,12 +7,12 @@ import argparse
 
 def addit(i):
     result=0
-    for n in range(i)
-        result=+
+    for n in range(i):
+        result+=
 
     return result
 
-    
+
 def main(argv=sys.argv[1:]):
     args = parse_args(argv)
     print(greeting(args.name, args.language))
